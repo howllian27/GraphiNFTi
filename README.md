@@ -1,5 +1,5 @@
 # Overview of GraphiNFTi
-<j>Graphinfti is an ambitious project aimed at revolutionizing the digital representation of real and fictional environments. Leveraging advanced computational algorithms for procedural generation and 3D modeling, it seeks to automate and refine the process of creating intricate, dynamic, and visually rich environments, bringing an unprecedented level of detail and realism to the virtual world. The project is spearheaded by a dual approach: </j>
+<j>Graphinfti is an ambitious project aimed at revolutionizing the digital representation of real and fictional environments. Leveraging advanced computational algorithms for procedural generation and 3D modeling, it seeks to automate and refine the process of creating intricate, dynamic, and visually rich environments, bringing an unprecedented level of detail and realism to the virtual world. The project is spearheaded by a dual approach, accompanied by a proof-of-concept approach for the smart contract verification of digital passports on the Algorand blockchain: </j>
 
 ## 1. Procedurally Generated City (WFC Algorithm with Backtracking)
 <b>Technical Overview: </b>
