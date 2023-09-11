@@ -3,7 +3,7 @@
 
 ## 1. Procedurally Generated City (WFC Algorithm with Backtracking)
 <b>Technical Overview: </b>
-This portion of the project revolves around the concept of procedural generation, a method where a large amount of content is generated algorithmically rather than manually. It takes advantage of an existing Wave Function Collapse (WFC) algorithm combined with a backtracking strategy.
+This portion of the project revolves around the concept of procedural generation, a method where a large amount of content is generated algorithmically rather than manually. It takes advantage of an existing Wave Function Collapse (WFC) algorithm combined with a backtracking strategy. More information about the original project is available at <a>https://github.com/marian42/wavefunctioncollapse</a>
 
 WFC operates by collapsing a wave function through the observation of quantum mechanics, translating this phenomenon into 3D space to create intricate and realistic cityscapes dynamically. The backtracking element ensures that the algorithm can efficiently navigate through different pathways during the generation process, effectively preventing dead-ends and promoting a cohesive layout.
 
